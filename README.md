@@ -13,3 +13,5 @@ It doesn't have any client side features, but i've made the code in a way you ca
 ### NOTES
 
 Now, i know the CSS it's pretty messy, but the point of this little project was for me to practice my JS and DOM manipulation knowledges, rather than my design and CSS skills, so i only made it available on Desktop and Tablet devices, cause i wont make the responsive design for the mobile
+
+Didn't deploy using gh pages cause this project as i said it's just to test my skills in js
