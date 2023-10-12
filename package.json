@@ -1,0 +1,18 @@
+{
+  "name": "quiz-webpage",
+  "version": "1.0.0",
+  "description": "a simple quiz webpage",
+  "main": "src/scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Trujillo",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
