@@ -4,7 +4,6 @@ const quizData = [
     options: [4, 10, 50, 8],
     correctAnswer: 4
   },
-
   {
     title: 'Cual de estos no es un lenguaje de programación?',
     options: [
@@ -15,7 +14,6 @@ const quizData = [
     ],
     correctAnswer: 'Wikipedia'
   },
-
   {
     title: 'Cual es la capital de Noruega?',
     options: [
@@ -27,5 +25,4 @@ const quizData = [
     correctAnswer: 'Oslo'
   }
 ]
-
 export default quizData
